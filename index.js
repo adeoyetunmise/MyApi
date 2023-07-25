@@ -16,12 +16,10 @@ let studentDetails=[
         email:'adeoyetunmise53@gmail.com',
         phoneNo:'+2349030906361',
         complexion:'Fair',
-        Age:'15',
+        Age:'26',
         school:'SQI',
         city:'Ottawa',
         country:'Canada'
-        
-        
     },
     {
         id:'2',
@@ -45,8 +43,8 @@ let studentDetails=[
         phoneNo:'+2349030906361',
         complexion:'Dark',
         Age:'34',
-        school:'SQI',
-        city:'Lagos',
+        school:'Lautech',
+        city:'Abeokuta',
         country:'Nigeria'
         
         
@@ -61,6 +59,48 @@ let studentDetails=[
         Age:'23',
         school:'Lautech',
         city:'Lagos',
+        country:'Nigeria'
+        
+        
+    },
+    {
+        id:'5',
+        firstname:'Bola',
+        lastname:'Titi',
+        email:'bolatiti@gmail.com',
+        phoneNo:'+2349030906361',
+        complexion:'Fair',
+        Age:'27',
+        school:'SQI',
+        city:'Abeokuta',
+        country:'Nigeria'
+        
+        
+    },
+    {
+        id:'6',
+        firstname:'Temilade',
+        lastname:'Boluwatife',
+        email:'boluwatifeadeyemo770@gmail.com',
+        phoneNo:'+2347088983293',
+        complexion:'Dark',
+        Age:'14',
+        school:'Lautech',
+        city:'Osun',
+        country:'Nigeria'
+        
+        
+    },
+    {
+        id:'7',
+        firstname:'Temilade',
+        lastname:'Boluwatife',
+        email:'boluwatifeadeyemo770@gmail.com',
+        phoneNo:'+2347088983293',
+        complexion:'Dark',
+        Age:'14',
+        school:'Lautech',
+        city:'Osun',
         country:'Nigeria'
         
         
